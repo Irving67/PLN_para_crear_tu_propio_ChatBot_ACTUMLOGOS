@@ -10,6 +10,11 @@ Mas dudas?, escríbele a los organizadores :) o pon un [github issue](https://he
 
 ## Cómo usarlo para mi propio taller?
 
+1. Crea tu propio [github repo](https://help.github.com/en/articles/create-a-repo).
+2. Clona este [repo](https://help.github.com/en/articles/cloning-a-repository).
+3. Copia los archivos a tu repo, elimina los archivos que no sean necesario (hay algunos de ejemplo).
+4. Edita y llena el repo con datos/código/notebooks y un README.md especifico para tu taller.
+
 ## Organización del repositorio
 
 La estructura está inspirado en una versión lite de [cookie cutter data science project](https://drivendata.github.io/cookiecutter-data-science/):
