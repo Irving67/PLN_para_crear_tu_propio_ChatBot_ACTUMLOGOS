@@ -10,10 +10,10 @@ Mas dudas?, escríbele a los organizadores :) o pon un [github issue](https://he
 
 ## Cómo usarlo para mi propio taller?
 
-Paso 1. Create tu propio [github repo](https://help.github.com/en/articles/create-a-repo).
-Paso 2. Clona este [repo](https://help.github.com/en/articles/cloning-a-repository).
-Paso 3. Copia los archivos a tu repo, elimina los archivos que no sean necesario (hay algunos de ejemplo).
-Paso 4. Edita y llena el repo con datos/codigo/notebooks y un README.md especifico para tu taller.
+1. Crea tu propio [github repo](https://help.github.com/en/articles/create-a-repo).
+2. Clona este [repo](https://help.github.com/en/articles/cloning-a-repository).
+3. Copia los archivos a tu repo, elimina los archivos que no sean necesario (hay algunos de ejemplo).
+4. Edita y llena el repo con datos/código/notebooks y un README.md especifico para tu taller.
 
 ## Organización del repositorio
 
