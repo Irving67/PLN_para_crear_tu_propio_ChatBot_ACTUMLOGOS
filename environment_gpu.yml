@@ -1,0 +1,22 @@
+name: riiaa19
+channels:
+   - defaults
+   - anaconda
+   - conda-forge
+dependencies:
+   - python>=3.7
+   - numpy
+   - scipy
+   - pandas
+   - matplotlib
+   - seaborn
+   - jupyter
+   - ipykernel
+   - tqdm
+   - scikit-learn
+   - cudatoolkit=10.0
+   - cudnn
+   - pip:
+     - tensorflow==2.0.0-beta1
+     - tensorflow_probability
+     - tensorflow-addons
