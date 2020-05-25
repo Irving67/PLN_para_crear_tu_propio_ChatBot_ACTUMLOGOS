@@ -1,6 +1,6 @@
-# Repositorio template para un workshop en RIIAA '19
+# Repositorio template para un workshop en RIIAA '20
 
-Este repositorio de github contiene material para un workshop plantilla dentro de la [RIIAA '19](www.riiaa.org). Para utilizarlo en tu propio taller, sigue a la siguiente sección. Nunca has usado github o markdown o jupyter/colab?
+Este repositorio de github contiene material para un workshop plantilla dentro de la [RIIAA '20](https://riiaa.org/). Para utilizarlo en tu propio taller, sigue a la siguiente sección. Nunca has usado github o markdown o jupyter/colab?
 Hay muchas guías en línea para usar estas tecnologías, algunas recomendaciones:
 * Github: https://guides.github.com/activities/hello-world/.
 * Markdown: https://guides.github.com/features/mastering-markdown/.
