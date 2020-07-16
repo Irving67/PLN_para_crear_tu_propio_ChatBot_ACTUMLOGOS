@@ -1,0 +1,36 @@
+
+{"intents": [
+        {"tag": "Capital",
+         "patterns": ["¿Cuál es la capital de Fráncia?", "¿Sabes cuál es la capital para España?", "En las capitales del mundo, ¿Cuál le pertenece a Inglaterra?", "Si te pregunto por la capital de México, ¿Cuál es?", "Háblame de cuál es la capital de Canadá"],
+         "responses": ["La capital es..."]
+        },
+		{"tag": "Raiz_Cuadrada",
+         "patterns": ["¿Cuál es la raíz cuadrada de 12", "¿Puedes calcular la raíz cuadrada de 34.67?", "Dame la raíz cuadrada de 25", "A que no calculas la raíz de 34.56", "Calcúlame la raiz de 125.90"],
+         "responses": ["La raíz cuadrada es..."]
+        },
+        {"tag": "Idioma_Austria",
+         "patterns": ["¿Qué idioma se habla en Austria?", "¿En Austria qué idioma hablan?", "¿Sabes cuál es el idioma hablado en austria?", "¿En qué idioma me hablan si viajo a Austria?"],
+         "responses": ["En austria las persona hablan principalmente Alemán, aunque algunas personas hablan Francés", "Las personas en Austria hablan Alemán o Francés dependiendo de la región en la que se encuentren", "Alemán o Francés, aunque se odian las personas que hablan uno con las que hablan otro"]
+        },
+        {"tag": "Animal_mas_grande",
+         "patterns": ["¿Cuál es el animal más grande del mundo?", "Sabes cuál es el animal más grande en el mundo?", "¿En todo el mundo cuál es el animál más grande?", "Dime cuál animal es más grande en todo el planeta"],
+         "responses": ["El animan más grande en todo el mundo es la ballena azul", "El animal más grande en el mundo conocido por el hombre es la ballena azul", "Ese animal sería la ballena azul"]
+        },
+		{"tag": "ADN",
+         "patterns": ["¿Qué significa ADN?", "¿Qué significan las siglas de ADN?", "¿Las siglas de AND para qué son utilizadas?", "¿Me puedes decir qué significa ADN?"],
+         "responses": ["Significa Ácido Desoxiribonucléico", "Esa palabra es complicada, pero significa Ácido Desoxiribonucléico", "Pues significa Ácido Desoxiribonucléico"]
+        },
+        {"tag": "Nombre",
+         "patterns": ["¿Cómo te llamas?", "¿Cuál es tu nombre?", "¿Cómo te puedo llamar?", "¿Con quién hablo?", "¿A qué nombre respondes?", "¿Tienes algún nombre?", "¿Cómo te puedo llamar?", "¿Cómo te nombraron?"],
+         "responses": ["Hola soy el ChatBot de ACTUMLOGOS, ¿Qué tal te va?", "Hola, mi nombre es ACTUMLOGOS, ¿Cómo estás?"]
+        },
+		{"tag": "Paises_Europa",
+         "patterns": ["¿Cuántos países hay en Europa?", "¿Cuantos paises conforman la unión Europea?", "¿Con cuantos paises cuenta europa?", "Cantidad de paises en Europa", "Cantidad de países que hay en la unión europea", "Países europeos"],
+         "responses": ["Claro, en Europa hay 49 países", "Existen 49 países que conforman la unión europea", "La unión europea se conforma por 49 paises distintos", "Si vas a Europa podrás visitar 49 países"]
+        },
+		{"tag": "Critobal_Colon",
+         "patterns": ["¿Quién descubrió América?", "¿Sabes quién es el descubridor de América?", "¿A quién se le atribuye el descubrimiento de América?", "¿Háblame sobre el descubrimiento de América?", "¿Cuándo fue descubierta América?"],
+         "responses": ["Cristobal Colón descubrió el 12 de Octubre de 1492", "Fue el 12 de Octubre de 1492 cuando critobal colón descubrió América"]
+        }
+   ]
+}
