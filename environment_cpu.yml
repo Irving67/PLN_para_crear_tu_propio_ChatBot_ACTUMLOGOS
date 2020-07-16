@@ -1,18 +1,18 @@
-name: riiaa19
+name: riiaa20
 channels:
    - defaults
    - anaconda
    - conda-forge
 dependencies:
    - python>=3.7
+   - spacy
+   - keras
+   - nltk
    - numpy
    - scipy
    - pandas
    - matplotlib
-   - seaborn
    - jupyter
-   - ipykernel
-   - tqdm
    - scikit-learn
    - pip:
      - tensorflow==2.0.0-beta1
