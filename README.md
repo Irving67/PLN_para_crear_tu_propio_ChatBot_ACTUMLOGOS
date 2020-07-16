@@ -28,15 +28,15 @@ En [Colab](https://colab.research.google.com) puedes crear un nuevo *notebook*, 
 Para tener la versión de Python 3.7+ y todas las bibliotecas instaladas en cualquier plataforma, recomendamos que uses [**Anaconda**](https://www.anaconda.com/) y generes un ambiente con el archivo `environment.yml` de este repositorio usando una terminal y el comando:
 
 ```
-conda env create -n riiaa19 -f environment_cpu.yml
+conda env create -n riiaa20 -f environment_cpu.yml
 ```
 
-Cambia el nombre `riia19` por tu nombre favorito para el ambiente. Si cuentas con un GPU Nvidia y deseas aprovecharlo cambia el archivo `environment_cpu.yml` a `environment_gpu.yml`.
+Cambia el nombre `riia20` por tu nombre favorito para el ambiente. Si cuentas con un GPU Nvidia y deseas aprovecharlo cambia el archivo `environment_cpu.yml` a `environment_gpu.yml`.
 
 Para activar el ambiente que creaste, en una terminal ingresa el comando
 
 ```
-conda activate riiaa19
+conda activate riiaa20
 ```
 
 Una vez activado, puedes ejecutar la aplicación de Jupyter Notebook
@@ -51,7 +51,7 @@ Este comando abrirá una pestaña o ventana en tu navegador web, como se muestra
 
 Al igual que en Google Colab, puedes crear un nuevo *notebook* seleccionando el botón `New` y posteriormente `Python 3`. De forma alternativa, puedes abrir uno existente seleccionando el archivo del *notebook* (con extensión `.ipynb`) dentro del directorio donde ejecutaste Jupyter Notebook. Con el botón `Upload` agregas archivos que se encuentran en otra parte de tu computadora a este directorio. Para cerrar Jupyter Notebook, presiona el botón `Quit` y posteriormente cierra la pestaña o ventana de tu navegador web.
 
-Para desactivar el ambiente `riiaa19` de Anaconda simplemente haz
+Para desactivar el ambiente `riiaa20` de Anaconda simplemente haz
 
 ```
 conda deactivate
