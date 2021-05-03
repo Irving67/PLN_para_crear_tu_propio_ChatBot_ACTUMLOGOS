@@ -51,7 +51,7 @@ Este comando abrirá una pestaña o ventana en tu navegador web, como se muestra
 
 Al igual que en Google Colab, puedes crear un nuevo *notebook* seleccionando el botón `New` y posteriormente `Python 3`. De forma alternativa, puedes abrir uno existente seleccionando el archivo del *notebook* (con extensión `.ipynb`) dentro del directorio donde ejecutaste Jupyter Notebook. Con el botón `Upload` agregas archivos que se encuentran en otra parte de tu computadora a este directorio. Para cerrar Jupyter Notebook, presiona el botón `Quit` y posteriormente cierra la pestaña o ventana de tu navegador web.
 
-Para desactivar el ambiente `riiaa20` de Anaconda simplemente haz
+Para desactivar el ambiente `ActumlogosNLP` de Anaconda simplemente haz
 
 ```
 conda deactivate
