@@ -2,9 +2,9 @@
 
 Cosas que el alumno deberá preparar antes de empezar con el taller:
 * Una laptop (Indispensable para trabar)
-* Este repositorio de GitHub clonado y actualizado antes del taller. (En el caso del archivo Word2Vect que se ubica en la carpeta "Data" deberá de ser descargado adicionalmente por medio del enlace proporcionado. Si el alumno trabajará en su ambiente local, contar con el archivo, si trabajará en Colab, será necesario subirlo a su cuenta de Google drive antes de comenzar el taller (Ya que este proceso tarda alrededor de 50 minutos)
-* Un sentido aventurero en los datos
+* Este repositorio de GitHub clonado y actualizado antes del taller. (En el caso del archivo Word2Vect que se ubica en la carpeta "Data" deberá de ser descargado por medio del enlace proporcionado. Si el alumno trabajará en su ambiente local, es necesario tener a la mano este archivo. Si trabajará en Colab, será necesario subirlo a su cuenta de Google Drive antes de comenzar el taller (Ya que este proceso tarda alrededor de 50 minutos)
 * Un ambiente Python 3.7+ con Anaconda (ver opciones 1 y 2 abajo).
+* Un sentido aventurero en los datos
 
 El taller será impartidos usando un *notebooks* de Jupyter. El *notebook* se puede crear y ejecutar en la nube vía Google Colab (opción 1) o de manera local en tu computadora a través de [Jupyter Notebooks](https://jupyter.org/) (opción 2).
 
@@ -28,15 +28,15 @@ En [Colab](https://colab.research.google.com) puedes crear un nuevo *notebook*, 
 Para tener la versión de Python 3.7+ y todas las bibliotecas instaladas en cualquier plataforma, recomendamos que uses [**Anaconda**](https://www.anaconda.com/) y generes un ambiente con el archivo `environment.yml` de este repositorio usando una terminal y el comando:
 
 ```
-conda env create -n riiaa20 -f environment_cpu.yml
+conda env create -n ActumlogosNLP -f environment_cpu.yml
 ```
 
-Cambia el nombre `riia20` por tu nombre favorito para el ambiente. Si cuentas con un GPU Nvidia y deseas aprovecharlo cambia el archivo `environment_cpu.yml` a `environment_gpu.yml`.
+Cambia el nombre `ActumlogosNLP` por tu nombre favorito para el ambiente. Si cuentas con un GPU Nvidia y deseas aprovecharlo cambia el archivo `environment_cpu.yml` a `environment_gpu.yml`.
 
 Para activar el ambiente que creaste, en una terminal ingresa el comando
 
 ```
-conda activate riiaa20
+conda activate ActumlogosNLP
 ```
 
 Una vez activado, puedes ejecutar la aplicación de Jupyter Notebook
