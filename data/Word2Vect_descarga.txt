@@ -1,4 +1,8 @@
 
-Enlace a descarga de archivo word2vect
+Enlace a descarga de archivo word2vect. Puede descargarse en Zip (880 MB) y descomprimirse o descargarse ya descomprimido (3 GB)
 
-https://drive.google.com/file/d/1KIgfHbnAH905HpFC77lTx-jXJKeT0o-D/view?usp=sharing
+Archivo comprimido:
+https://drive.google.com/file/d/1-ITSlR6p0GebRaSMoktX1lHg_MwOcNYn/view?usp=sharing
+
+Archivo descomprimido:
+https://drive.google.com/file/d/1ne6O29bC07mGSDFrw3xWJOoYH1pCaV8Z/view?usp=sharing
